@@ -8,7 +8,7 @@ The main objective is to predict peak power consumption using advanced AI models
 
 ## Dataset
 
-Data used in this project was collected from Jeju Samdasoo factory using IoT sensing technologies, including both univariate and multivariate time-series datasets related to energy usage.
+Data used in this project was collected from [**Jeju Samdasoo factory**](https://en.wikipedia.org/wiki/Jeju_Samdasoo) using IoT sensing technologies, including both univariate and multivariate time-series datasets related to energy usage.
 
 ## 📈 Detailed Model Performance
 
